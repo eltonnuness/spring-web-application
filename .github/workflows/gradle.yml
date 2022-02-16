@@ -70,5 +70,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: eltonnunes/spring-web-application:1.0.0
+          tags: "eltonnunes/spring-web-application:latest,eltonnunes/spring-web-application:1.0.1"
           labels: label1
